@@ -1,4 +1,4 @@
-# 🚀 Java Coding Interview Preparation – Infosys
+# 🚀 Java Coding  Preparation – Infosys
 
 This repository contains **Java coding solutions** focused on **Infosys technical interview requirements**, with strong emphasis on the **Java Collections Framework**, core Java concepts, and problem-solving patterns.  
 All problems are solved with **clean, optimized, and interview-ready code**.
